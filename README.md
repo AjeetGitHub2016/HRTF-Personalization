@@ -1,2 +1,2 @@
 # HRTF-Personalization
-HRTF Personalization based on artificial neural network in individual virtual auditory space.
+Head Related Transfer Function (HRTF) based sound rendering techniques, which seek to create a realistic virtual auditory space for listeners, have become a prominent in many applications.This report presents the individualized HRTF using back propagation (BP) artificial neural network(ANN).First,We trained the ANN with highly correlated anthropometrics parameters.Second,We estimate the individual HRTF and ITD via the new anthropometrics parameters with the output HRTF and ITD of ANN.
